@@ -2168,3 +2168,4 @@
 /api/jolokia/search/org.apache.activemq:type=Broker,*
 /?session_expired=true&redirect=http://evil.com
 /enter?redirect=oast.me&foo=bar
+/list_personalities?category=../..
