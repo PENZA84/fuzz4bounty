@@ -26,3 +26,4 @@
 /api/v1/build_public_tmp/00000000-0000-0000-0000-000000000000/flow
 /
 /list_personalities?category=../..
+/api/v1/build_public_tmp/{{uuid}}/flow

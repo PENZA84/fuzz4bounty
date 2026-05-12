@@ -2169,3 +2169,4 @@
 /?session_expired=true&redirect=http://evil.com
 /enter?redirect=oast.me&foo=bar
 /list_personalities?category=../..
+/api/v1/build_public_tmp/{{uuid}}/flow
