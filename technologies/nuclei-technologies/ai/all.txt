@@ -27,3 +27,5 @@
 /
 /list_personalities?category=../..
 /api/v1/build_public_tmp/{{uuid}}/flow
+/api/public/health
+/model/info
