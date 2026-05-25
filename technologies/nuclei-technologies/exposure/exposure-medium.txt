@@ -387,3 +387,4 @@
 /api/v1/users/features
 /api/v1/tenants/current
 /model/info
+/api/badge/1/ping/24
