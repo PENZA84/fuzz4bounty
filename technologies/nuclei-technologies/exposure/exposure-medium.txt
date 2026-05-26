@@ -388,3 +388,4 @@
 /api/v1/tenants/current
 /model/info
 /api/badge/1/ping/24
+/hazelcast/rest/cluster

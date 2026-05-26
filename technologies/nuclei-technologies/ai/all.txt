@@ -29,3 +29,6 @@
 /api/v1/build_public_tmp/{{uuid}}/flow
 /api/public/health
 /model/info
+/admin
+/hub/login
+/Login
