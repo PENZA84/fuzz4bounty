@@ -70,3 +70,6 @@
 /contact-us
 /wp-content/uploads/wp_dndcf7_uploads/{{path}}/{{renamed}}
 /api/badge/1/ping/24
+/?BazaR&vue=formulaire
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users

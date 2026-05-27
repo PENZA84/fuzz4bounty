@@ -382,3 +382,9 @@
 /wp-content/plugins/qubely/readme.txt
 /wp-content/plugins/bookit/readme.txt
 /streams/v1/polyaxon/default/s/runs/%2e%2e/artifact?stream=true&path=../../../../etc/passwd
+/?BazaR&vue=formulaire
+/wp-content/plugins/burst-statistics/readme.txt
+/wp-json/wp/v2/users
+/pdb/dashboard/index.html
+/dashboard/index.html
+/pdb/query/v4/facts
