@@ -159,3 +159,5 @@
 /pdb/dashboard/index.html
 /dashboard/index.html
 /pdb/query/v4/facts
+/nova/dashboards/main
+/nova/resources

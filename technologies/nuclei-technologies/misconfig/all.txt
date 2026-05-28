@@ -866,3 +866,5 @@
 /model/info
 /dashboard/index.html
 /pdb/query/v4/facts
+/__clockwork
+/pulse
