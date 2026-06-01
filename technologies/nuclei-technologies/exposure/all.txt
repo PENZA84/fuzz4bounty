@@ -1498,3 +1498,4 @@
 /storage/oauth-public.key
 /_ignition/logs
 /__clockwork
+/autopass
