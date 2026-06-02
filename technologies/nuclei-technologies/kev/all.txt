@@ -165,3 +165,5 @@
 /api/v1/version
 /api/jolokia/search/org.apache.activemq:type=Broker,*
 /api/v1/build_public_tmp/{{uuid}}/flow
+/global-protect/login.esp
+/sslmgr
